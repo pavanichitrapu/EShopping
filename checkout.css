@@ -41,8 +41,8 @@ h1{
 }
 
 .product-img {
- 
-  min-width: 80px;
+ width:80px;
+  
   border-radius: 5px;
   margin-right: 16px;
 }
@@ -111,7 +111,7 @@ h1{
   height:100px;
 }
 .product-img{
-  min-width:none;
+
   width:30px;
   height:70px;
 }
