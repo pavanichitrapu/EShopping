@@ -111,7 +111,7 @@ h1{
   height:100px;
 }
 .product-img{
-
+  min-width:none;
   width:30px;
   height:70px;
 }
